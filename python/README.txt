@@ -1,0 +1,1 @@
+Ce dossier contient plusieurs script python répondant à différentes questions et sujets qui ont pour but de nous familliarisé avec python dans le cadre de notre année d'Expert en Systemes d'Information et Sécurité.
