@@ -1,0 +1,12 @@
+[
+    {
+        "total_events":100,
+        "failed_logons":24,
+        "suspicious_categories":{
+            "Special Privileges Assigned":7,
+            "Logon Success":6,
+            "Logoff":6,
+            "Logon Failure":5
+        }
+    }
+]

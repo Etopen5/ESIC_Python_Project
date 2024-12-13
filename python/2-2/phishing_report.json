@@ -1,0 +1,15 @@
+{
+    "total_emails_analyzed": 4,
+    "total_phishing_detected": 2,
+    "percentage_phishing": 50.0,
+    "phishing_emails": [
+        {
+            "sender": "fraud@phishing.ru",
+            "content": "Cliquez ici pour r\u00e9cup\u00e9rer votre compte : http://bit.ly/fake"
+        },
+        {
+            "sender": "support@service.xyz",
+            "content": "Votre compte est compromis. Connectez-vous ici : http://service.xyz"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+Site,Expiry Date,Days Remaining,Status
+example.com,2025-03-01 23:59:59,79.0,Valid
+expired.badssl.com,,,Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+google.com,2025-01-27 08:37:46,45.0,Valid
+self-signed.badssl.com,,,Error: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
