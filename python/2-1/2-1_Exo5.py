@@ -18,6 +18,7 @@ def image(chaine):
 def dix_image():
     i = 1
     res = "1"
+    print("u 0  = ",res)
     while i <= 10 :
         res = image(str(res))
         print("u",i," = ",res)
